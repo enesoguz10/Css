@@ -1,0 +1,48 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: red;
+}
+
+h2{
+    font-weight: bold;
+}
+
+h3{
+    font-style: italic;
+}
+
+h4{
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+h5{
+    font-size: 25px;
+    text-decoration: overline;
+}
+
+h6{
+    font-size: 25px;
+    text-decoration: line-through;
+}
+
+p{
+    text-transform: lowercase;
+}
+
+p.one{
+    text-transform: uppercase;
+}
+
+p.two{
+    text-transform: capitalize;
+}
+
+h2.h-one{
+    letter-spacing: 10px;
+}
+
+h2.h-two{
+    word-spacing: 25px;
+}

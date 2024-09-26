@@ -1,0 +1,20 @@
+#kutu{
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;
+    overflow: visible;
+}
+
+#kutu0{
+    width: 100px;
+    height: 100px;
+    border: 2px solid pink;
+    overflow: hidden;
+}
+
+#kutu1{
+    width: 100px;
+    height: 100px;
+    border: 2px solid green;
+    overflow: scroll;
+}

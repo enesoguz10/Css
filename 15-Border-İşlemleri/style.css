@@ -1,0 +1,55 @@
+div#kutu1{
+    width: 100px;
+    height: 50px;
+    border:  1px solid red;
+}
+
+div#kutu2{
+    width: 100px;
+    height: 50px;
+    border:  5px dotted red;
+}
+
+div#kutu3{
+    width: 100px;
+    height: 50px;
+    border:  5px dashed black;
+}
+
+div#kutu4{
+    width: 100px;
+    height: 50px;
+    border:  5px double black;
+}
+
+div#kutu5{
+    width: 100px;
+    height: 50px;
+    border:  5px groove red;
+}
+
+div#kutu6{
+    width: 100px;
+    height: 50px;
+    border:  5px ridge red;
+}
+
+div#kutu7{
+    width: 100px;
+    height: 50px;
+    border:  5px inset black;
+}
+
+div#kutu8{
+    width: 100px;
+    height: 50px;
+    border:  5px outset black;
+}
+
+div#kutu9{
+    width: 100px;
+    height: 50px;
+    border-style: solid;
+    border-width: 10px 10px 10px 10px;
+    border-color: red green blue yellow;
+}

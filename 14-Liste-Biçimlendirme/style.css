@@ -1,0 +1,31 @@
+ul{
+    list-style: none;
+}
+
+ul#circle li{
+    list-style-type: circle;
+}
+
+ul#disc li{
+    list-style-type: disc;
+}
+
+ul#square li{
+    list-style-type: square;
+}
+
+ul#decimal li{
+    list-style-type: decimal;
+}
+
+ul#l-alpha li{
+    list-style: lower-alpha;
+}
+
+ul#l-roman li{
+    list-style: none;
+    background: url(../14-Liste-Biçimlendirme/flag.png);
+    background-position: center;
+    background-size: auto;
+    padding: 15px 5px 15px 5px;
+}

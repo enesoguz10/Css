@@ -1,0 +1,9 @@
+img{
+    float: left;
+    margin-left: 10px;
+}
+
+img.flag{
+    float: right;
+    margin-right: 25px;
+}

@@ -1,0 +1,23 @@
+h3{
+    text-align: right;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+p#one{
+    color: red;
+    text-indent: 25px;
+}
+
+p#two{
+    color: blue;
+    text-align: center;
+}
+
+p#three{
+    color: green;
+    line-height: 50px;
+}

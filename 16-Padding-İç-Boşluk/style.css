@@ -1,0 +1,19 @@
+#div{
+    border-style: solid;
+    width: 300px;
+    padding: 25px 50px 60px 30px;
+}
+
+#div0{
+    border-style: solid;
+    width: 350px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+#div1{
+    border-style: solid;
+    width: 400px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}

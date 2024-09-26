@@ -1,0 +1,54 @@
+div{
+    border: 3px solid black;
+}
+
+#buyuk{
+    width: 300px;
+    height: 200px;
+    background-color: transparent;
+    z-index: 0;
+}
+
+#kucuk{
+    width: 200px;
+    height: 100px;
+    background-color: purple;
+    position:relative;
+    top: -75px;
+    left: 40px;
+    z-index: 1;
+}
+
+#buyuk2{
+    width: 300px;
+    height: 200px;
+    background-color: aqua;
+    z-index: 0;
+}
+
+#kucuk2{
+    width: 200px;
+    height: 100px;
+    background-color: purple;
+    position:relative;
+    top: -75px;
+    left: 40px;
+    z-index: 1;
+}
+
+#buyuk3{
+    width: 300px;
+    height: 200px;
+    background-color: aqua;
+    z-index: 2;
+}
+
+#kucuk3{
+    width: 200px;
+    height: 100px;
+    background-color: purple;
+    position:relative;
+    top: -75px;
+    left: 40px;
+    z-index: -1;
+}

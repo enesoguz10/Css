@@ -1,0 +1,24 @@
+/* Genel 
+
+    :link - Bağlantı
+    :visited - Ziyaret edilmiş website
+    :hover - İmleç üzerine geldiğindeki durum
+    :active - Tıklanmış link
+
+*/
+
+a.x:link{
+    color: green;
+}
+
+a.y:active{
+    color: blue;
+}
+
+a.z:hover{
+    color: orange;
+}
+
+a.q:visited{
+    color: red;
+}

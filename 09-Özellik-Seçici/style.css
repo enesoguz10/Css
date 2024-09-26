@@ -1,0 +1,28 @@
+input[type="text"]{
+    color: white;
+    background-color: gray;
+}
+
+input[type="password"]{
+    color: #000;
+    background-color: #999;
+}
+
+input[type="submit"]{
+    width: 75px;
+    height: 25px;
+    color: #fff;
+    background-color: red;
+}
+
+input[type="reset"]{
+    width: 75px;
+    height: 25px;
+    color: #fff;
+    background-color: #000;
+}
+
+input::placeholder{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkred;
+}
